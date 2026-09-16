@@ -1,4 +1,4 @@
-const CACHE_NAME = "interaktive-geschichten-v3";
+const CACHE_NAME = "interaktive-geschichten-v4";
 const CORE_FILES = [
   "./index.html",
   "./manifest.webmanifest",
